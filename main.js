@@ -16,10 +16,12 @@ function areatriangulo(base,altura,){
 }
 console.log(areatriangulo(8,5))
 
-let nome=parseInt(prompt('Qual eu nome'/);
-let nome=parseInt(prompt('Qual sua cor favorita'/);
-let nome=parseInt(prompt('Você gosta de morango'/);
-document.write(
+let nome=parseInt(prompt('digite um número'/));
+let nome=parseInt(prompt('digite o segundo número'/));
+let nome=parseInt(prompt('digite o terceiro número'/));
+ function media(valor1,valor2,valor3){
+   return (valor1+valor2+valor3)/3;
 
-)
+ }  console.log(media(valor1,valor2,valor3));
+ document.write(media(valor1,valor2,valor3));
 
