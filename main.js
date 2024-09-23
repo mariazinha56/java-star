@@ -9,7 +9,7 @@ console.log(soma(2,3));
 function areaQuadro(lado){
     return lado **2
 }
-console.log(areaquadrado(3));
+console.log(areaQuadro(3));
 
 function areatriangulo(base,altura,){
     return base*altura/2;
