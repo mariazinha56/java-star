@@ -10,7 +10,8 @@ function areaQuadro(lado){
     return lado **2
 }
 console.log(areaquadrado(3));
-function areatriangulo(base,altura){
-    return base*altura/2
+
+function areatriangulo(base,altura,){
+    return base*altura/2;
 }
 console.log(areatriangulo(8,5))
