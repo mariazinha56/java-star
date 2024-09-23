@@ -18,5 +18,8 @@ console.log(areatriangulo(8,5))
 
 let nome=prompt('Qual eu nome?');
 document.write('???');
+
 let nome=prompt('Qual sua cor favorita?');
+document.write('sei la');
 let nome=prompt('Você gosta de morango?');
+document.write('nao sei');
