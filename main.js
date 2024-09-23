@@ -17,8 +17,9 @@ function areatriangulo(base,altura,){
 console.log(areatriangulo(8,5))
 
 let nome=parseInt(prompt('Qual eu nome?'));
-document.write('???');
 let nome=parseInt(prompt('Qual sua cor favorita?'));
-document.write('???');
 let nome=parseInt(prompt('Você gosta de morango?'));
-document.write('???');a
+document.write(
+
+)
+
