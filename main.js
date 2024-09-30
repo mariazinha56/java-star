@@ -37,12 +37,12 @@
    
   }
 
-  let idade = PARSEINT(prompt('Qual a sua idade?'));
-  if (idade>17){
+  let idade =PARSEINT(prompt('Qual a sua idade?'));
+   if (idade>17){
     console.log('Já pode dirigir');
 
   }
-  else{
+   else{
     console.log('Ilegal dirigir');
   }
 
