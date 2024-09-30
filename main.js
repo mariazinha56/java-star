@@ -28,3 +28,9 @@
 
  let estados = ['Paraná','São Paulo','Rio De Janeiro','Rio Grande Do Sul','Espírito Santo','Santa Catarina','Minas gerais','Acre','Amapá','Amazonas','Pará','Rondônia', 'Roraima','Tocantins','Bahia','Maranhão','Paraíba','Pernambuco','Piauí','Rio Grande Do Norte','Sergipe','Mato Grosso','Mato Grosso Do Sul','Goías','Alagoas','Distrito Federal','Ceará']
 
+ let i=0;
+
+ while (i<10) {
+     console.log(i);
+   i=i+1; 
+  }
