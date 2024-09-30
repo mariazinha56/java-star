@@ -37,7 +37,7 @@
    
   }
 
-  let idade =parceInt(prompt('Qual a sua idade?'));
+  let idade =parseInt(prompt('Qual a sua idade?'));
    if (idade>17){
     console.log('Já pode dirigir');
 
