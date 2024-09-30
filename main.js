@@ -30,7 +30,7 @@
 
  let i=0;
 
- while (i<10) {
+ while (i<estados.length) {
      console.log(i);
    i=i+1; 
   }
