@@ -46,3 +46,6 @@
     console.log('Ilegal dirigir');
   }
 
+  for(let i=0;i<estados.length,i++){
+    console.log(estados[i]);
+  }
